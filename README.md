@@ -1,16 +1,20 @@
-## Hi there 👋
+# Leonardo Placidi
 
-<!--
-**Gruntrexpewrus/Gruntrexpewrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Scientist & ML engineer. Interests: market microstructure, statistical modeling, high-performance data pipelines, and quantum/AI research.
 
-Here are some ideas to get you started:
+- Location: Tokyo, Japan
+- Email: leonardoplacidi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/leonardo-p-570616198/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- **Market Microstructure Toolkit** — order book snapshots → microstructure metrics (spread, depth imbalance, OFI, realized variance, microprice).  
+  Repo: https://github.com/Gruntrexpewrus/market-microstructure-toolkit
+- **[Project 2]** — one-line value prop + link.
+- **[Project 3]** — one-line value prop + link.
+
+## Notes & Reading
+- Currently reading: *High-Frequency Trading* (Aldridge)
+- I share short technical notes in repo READMEs and commit messages.
+
+## Tech
+Python, pandas, NumPy, PyTorch, Matplotlib; CCXT; SQL; Docker; C++ (basics)
