@@ -13,8 +13,8 @@ With a background in **Mathematics** and **Data Science**, I bridge the gap betw
 ---
 
 ## 🎓 Education
-- **MSc in Data Science** — [University Name]  
-- **BSc in Mathematics** — [University Name]  
+- **MSc in Data Science** — [Sapienza University of Rome]  
+- **BSc in Mathematics** — [Sapienza University of Rome]  
 
 ---
 
