@@ -11,6 +11,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           user: Gruntrexpewrus
+          token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           config_timezone: Asia/Tokyo
           filename: metrics.svg
