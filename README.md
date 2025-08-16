@@ -43,3 +43,11 @@ I work at the intersection of **quantum computing**, **machine learning**, and *
 - **GitHub:** [github.com/Gruntrexpewrus](https://github.com/Gruntrexpewrus)
 
 ---
+
+## 📊 Daily Metrics
+![Metrics](./metrics.svg)
+
+## 📝 Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
