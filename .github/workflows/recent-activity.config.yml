@@ -1,0 +1,12 @@
+# Minimal, safe defaults
+username: Gruntrexpewrus
+readme_file: "./README.md"   # where to write the list
+max_lines: 10
+timezone: "Asia/Tokyo"
+
+# optional: hide noisy events
+disabled_events:
+  - comments
+
+# optional: customize commit message
+commit_msg: "chore: update recent activity"
