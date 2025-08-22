@@ -49,10 +49,10 @@ I work at the intersection of **quantum computing**, **machine learning**, and *
 
 ## 📝 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [Gruntrexpewrus/market-microstructure-toolkit](https://github.com/Gruntrexpewrus/market-microstructure-toolkit)<br>
-2. 🎉 Merged PR [#5](https://github.com/Gruntrexpewrus/market-microstructure-toolkit/pull/5) in [Gruntrexpewrus/market-microstructure-toolkit](https://github.com/Gruntrexpewrus/market-microstructure-toolkit)<br>
-3. 💪 Opened PR [#5](https://github.com/Gruntrexpewrus/market-microstructure-toolkit/pull/5) in [Gruntrexpewrus/market-microstructure-toolkit](https://github.com/Gruntrexpewrus/market-microstructure-toolkit)<br>
-4. ⬆️ Pushed 1 commit(s) to [Gruntrexpewrus/market-microstructure-toolkit](https://github.com/Gruntrexpewrus/market-microstructure-toolkit)<br>
-5. ⬆️ Pushed 2 commit(s) to [Gruntrexpewrus/market-microstructure-toolkit](https://github.com/Gruntrexpewrus/market-microstructure-toolkit)<br>
+1. ⬆️ Pushed 1 commit(s) to [Gruntrexpewrus/market-microstructure-toolkit](https://github.com/Gruntrexpewrus/market-microstructure-toolkit)<br>
+2. ⬆️ Pushed 3 commit(s) to [Gruntrexpewrus/market-microstructure-toolkit](https://github.com/Gruntrexpewrus/market-microstructure-toolkit)<br>
+3. 🎉 Merged PR [#5](https://github.com/Gruntrexpewrus/market-microstructure-toolkit/pull/5) in [Gruntrexpewrus/market-microstructure-toolkit](https://github.com/Gruntrexpewrus/market-microstructure-toolkit)<br>
+4. 💪 Opened PR [#5](https://github.com/Gruntrexpewrus/market-microstructure-toolkit/pull/5) in [Gruntrexpewrus/market-microstructure-toolkit](https://github.com/Gruntrexpewrus/market-microstructure-toolkit)<br>
+5. ⬆️ Pushed 1 commit(s) to [Gruntrexpewrus/market-microstructure-toolkit](https://github.com/Gruntrexpewrus/market-microstructure-toolkit)<br>
 <!--RECENT_ACTIVITY:end-->
 
