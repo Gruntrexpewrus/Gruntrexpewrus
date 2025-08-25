@@ -19,6 +19,10 @@ I work at the intersection of **quantum computing**, **machine learning**, and *
 - **[QuantitativeTrading-public](https://github.com/Gruntrexpewrus/QuantitativeTrading-public)** — Open-source notes and experiments: strategy sketches, data handling, research notebooks.
 - **[TradersPlayground](https://github.com/Gruntrexpewrus/TradersPlayground)** — Sandbox of utilities and quick experiments for trading research.
 
+### 🧠 AI Tools
+
+- **[ResearchButler](https://github.com/Gruntrexpewrus/ResearchButler)** — A personal “research butler” that fetches daily updates from arXiv, journals, and news on quantum computing. It generates TL;DR summaries, trend visualisations, and even trivia/jokes using a local LLM, all served through a Flask web dashboard with per-user customization.
+
 ### 🤖 ML / Research
 - **[TrajectoryFor-and-DPP](https://github.com/Gruntrexpewrus/TrajectoryFor-and-DPP)** — Determinantal Point Processes + Transformers for pedestrian trajectory forecasting (ETH/UCY). Final project in Advanced ML at Sapienza. [Published in *Pattern Recognition*](https://www.sciencedirect.com/science/article/pii/S0031320323000730)
 - **[MNISQ — Quantum Circuit Dataset](https://github.com/FujiiLabCollaboration/MNISQ-quantum-circuit-dataset)** *(lead author)* — Large-scale dataset for ML on/for quantum computers (with Fujii Lab collaborators). [ArXiv preprint](https://arxiv.org/abs/2306.16627)
