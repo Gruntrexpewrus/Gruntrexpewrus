@@ -53,10 +53,5 @@ I work at the intersection of **quantum computing**, **machine learning**, and *
 
 ## 📝 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Gruntrexpewrus/gruntrexpewrus.github.io](https://github.com/Gruntrexpewrus/gruntrexpewrus.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [Gruntrexpewrus/Gruntrexpewrus](https://github.com/Gruntrexpewrus/Gruntrexpewrus)<br>
-3. ⬆️ Pushed 2 commit(s) to [Gruntrexpewrus/ResearchButler](https://github.com/Gruntrexpewrus/ResearchButler)<br>
-4. 🎉 Merged PR [#1](https://github.com/Gruntrexpewrus/ResearchButler/pull/1) in [Gruntrexpewrus/ResearchButler](https://github.com/Gruntrexpewrus/ResearchButler)<br>
-5. 💪 Opened PR [#1](https://github.com/Gruntrexpewrus/ResearchButler/pull/1) in [Gruntrexpewrus/ResearchButler](https://github.com/Gruntrexpewrus/ResearchButler)<br>
 <!--RECENT_ACTIVITY:end-->
 
