@@ -1,6 +1,6 @@
 # Hi, I'm Leonardo Placidi 👋
 
-🎯 **Machine Learning Scientist** | **Quantum Computing Researcher** | **Algorithmic Trading Enthusiast**  
+🎯 **AI Builder** | **ML Systems, LLMs** | **Quantum Algorithms & Quantum AI** | **Machine Learning Scientist** | **Quantum Computing Researcher** | **Algorithmic Trading Enthusiast**  
 📍 Tokyo, Japan  
 
 ---
