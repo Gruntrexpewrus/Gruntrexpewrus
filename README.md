@@ -57,6 +57,5 @@ I work at the intersection of **quantum computing**, **machine learning**, and *
 2. ⬆️ Pushed undefined commit(s) to [Gruntrexpewrus/My-](https://github.com/Gruntrexpewrus/My-)<br>
 3. ⬆️ Pushed undefined commit(s) to [Gruntrexpewrus/My-](https://github.com/Gruntrexpewrus/My-)<br>
 4. ⬆️ Pushed undefined commit(s) to [Gruntrexpewrus/My-](https://github.com/Gruntrexpewrus/My-)<br>
-5. ⬆️ Pushed undefined commit(s) to [Gruntrexpewrus/Gruntrexpewrus](https://github.com/Gruntrexpewrus/Gruntrexpewrus)<br>
 <!--RECENT_ACTIVITY:end-->
 
